@@ -1,0 +1,20 @@
+========================================================================
+COMO INSERIR OU MODIFICAR SUA FOTO DE PERFIL NO SITE PROFISSIONAL
+========================================================================
+
+1. Escolha sua melhor foto profissional (formato vertical ou quadrado, de preferência em boa resolução).
+2. Salve ou renomeie sua foto com o nome exato:
+   
+   foto-perfil.jpg
+
+3. Coloque o arquivo dentro desta pasta:
+   /home/maxwell/site-profissional/assets/img/
+
+4. Pronto! O site atualizará a imagem automaticamente no box de perfil.
+
+DICA: Se a sua imagem estiver em formato .png, .jpeg ou .webp, você pode:
+- Converter ou salvar como "foto-perfil.jpg", OU
+- Alterar no arquivo index.html o caminho de:
+  assets/img/foto-perfil.jpg
+  para o nome do seu arquivo (exemplo: assets/img/foto-perfil.png).
+========================================================================

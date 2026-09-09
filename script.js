@@ -1,6 +1,6 @@
 /**
  * Website Profissional - Maxwell Rodrigues Ferreira (Farmacêutico Freelancer)
- * Interações e Integração WhatsApp
+ * Interações, Formulário WhatsApp e Utilitários de Interface
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -116,7 +116,7 @@ function initScrollSpy() {
 
   window.addEventListener('scroll', () => {
     let current = '';
-    const scrollPosition = window.scrollY + 100;
+    const scrollPosition = window.scrollY + 120;
 
     sections.forEach(section => {
       const sectionTop = section.offsetTop;
